@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: Georgia;
+}
+
+h2 {
+    font-family: Georgia;
+}
+
+table, tr, th, td {
+    border: solid thin black;
+}
+.input {
+    text-align: center
+}
+
+.table1title {
+    background-color:bisque;
+}
+
+.table2title {
+    background-color:cadetblue;
+}
+
+.table3title {
+    background-color:darkseagreen
+}
+
+.html_attributes {
+    margin-top: 25px;
+    position: relative;
+}   
+
+#audrina {
+    width: 500px;
+    height: 390px;
+    float: right;
+}
